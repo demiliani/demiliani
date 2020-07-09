@@ -1,13 +1,13 @@
 ### Hi, I'm Stefano Demiliani 👋
-(https://demiliani.files.wordpress.com/2020/05/sd_profile_01_small.jpg?w=155&h=189)
-(https://demiliani.files.wordpress.com/2018/04/mvp_logo_horizontal_preferred_cyan300_cmyk_300ppi.png?w=188)
-Microsoft MVP - CTO - Dynamics 365 Business Central & Azure Solution Architect - DevOps Engineer
-Trainer for Microsoft - Speaker & Author
+### ![](https://demiliani.files.wordpress.com/2020/05/sd_profile_01_small.jpg?w=155&h=189)
+### ![](https://demiliani.files.wordpress.com/2018/04/mvp_logo_horizontal_preferred_cyan300_cmyk_300ppi.png?w=188)
+- Microsoft MVP - CTO - Dynamics 365 Business Central & Azure Solution Architect - DevOps Engineer
+- Trainer for Microsoft - Speaker & Author
 
-- 📫 How to reach me: ...
-[Personal website](http://www.demiliani.com)
-[Twitter](https://twitter.com/demiliani)
-[Linkedin](https://www.linkedin.com/in/stefano-demiliani)
+### 📫 How to reach me: ...
+* [Personal website](http://www.demiliani.com)
+* [Twitter](https://twitter.com/demiliani)
+* [Linkedin](https://www.linkedin.com/in/stefano-demiliani)
 
 
 <!--
